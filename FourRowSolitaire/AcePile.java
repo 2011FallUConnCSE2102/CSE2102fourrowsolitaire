@@ -37,6 +37,7 @@ public class AcePile extends CardStack
     public AcePile(String suit)
     {
         this.suit = suit;
+        //edit for example
     }
 
     public String getSuit()
